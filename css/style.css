@@ -13,4 +13,5 @@ body {
 .countdown {
     font-size: 10vw;
     color: #da2a17;
+    text-shadow: 0 0 2px #e74c3c, 0 0 5px #e74c3c, 0 0 10px #ff0000;
 }
